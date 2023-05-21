@@ -26,6 +26,8 @@
 
 ## OUTPUT:
 ![image](https://github.com/Pavithraramasaamy/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/118596964/87247960-95ac-4694-94db-718061445bb9)
+
+
 Base:
 
 The base refers to the bottommost part of the delta 3D printer assembly. It serves as the foundation and provides stability to the printer. The base is typically a solid structure that supports other components and ensures the printer's overall structural integrity.
